@@ -49,7 +49,7 @@ importers:
         specifier: 19.1.4
         version: 19.1.4
       '@types/react-dom':
-        specifier: ^19.1.2
+        specifier: ^19.1.5
         version: 19.1.5(@types/react@19.1.4)
       css-loader:
         specifier: ^7.1.2
